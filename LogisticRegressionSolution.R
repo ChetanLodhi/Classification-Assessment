@@ -1,5 +1,3 @@
-setwd("D:/R/Projects/People Interactive")
-
 library(caTools)
 library(ROCR)
 
